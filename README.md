@@ -2,8 +2,10 @@ mruby-io
 ========
 [![Build Status](https://travis-ci.org/iij/mruby-io.svg?branch=master)](https://travis-ci.org/iij/mruby-io)
 
-
 `IO` and `File` classes for mruby
+
+**Note: mruby-io is incorporated in mruby now.  If you use mruby 1.4.0 or later, build it with bundled mruby-io.
+This repository supports mruby <= 1.3.x only.**
 
 ## Installation
 Add the line below to your `build_config.rb`:
